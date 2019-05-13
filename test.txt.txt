@@ -1,7 +1,7 @@
-¾È³çÇÏ¼¼¿ä È«¼®¿µÀÔ´Ï´Ù.
-Àú´Â 24»ìÀÌ°í
-¼ö¿ø¿¡ »ğ´Ï´Ù. 
+ï»¿ì•ˆë…•í•˜ì„¸ìš” í™ì„ì˜ì…ë‹ˆë‹¤.
+ì €ëŠ” 24ì‚´ì´ê³ 
+ìˆ˜ì›ì— ì‚½ë‹ˆë‹¤. 
 
-git config --global user.name [ÀÌ¸§]
-git config --global user.email [ÀÌ¸ŞÀÏ]
+git config --global user.name [ì´ë¦„]
+git config --global user.email [ì´ë©”ì¼]
 git add
