@@ -1,3 +1,7 @@
 안녕하세요 홍석영입니다.
 저는 24살이고
 수원에 삽니다. 
+
+git config --global user.name [이름]
+git config --global user.email [이메일]
+git add
